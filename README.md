@@ -1,9 +1,6 @@
-# :handbag: Shopie
-Sample MVVM e-commerce application for Android that uses Kotlin programming language. The application has 100 different products in different categories. :arrow_down:
+# :handbag: Shopping bag
+Sample MVVM e-commerce application for Android that uses Kotlin programming language.
 - API: A set of functions and procedures allowing the creation of applications. The application uses the [link](https://dummyjson.com/) as API.
-
-
-Don't forget to star the project if you like it!  :heart: ==  :star:
 
 ##  Dependencies :high_brightness:
 
@@ -20,8 +17,6 @@ Don't forget to star the project if you like it!  :heart: ==  :star:
 | `Data Binding`|_A support library that allows you to bind UI components in your layouts to data sources using a declarative format rather than programmatically._|[link](https://developer.android.com/topic/libraries/data-binding) |
 | `Jetpack`  |_Library containing Room, hilt, paging, data binding..._   |[link](https://developer.android.com/jetpack/androidx/explorer)|
 | `Glide`  |_Image loading framework for Android._|[link](https://github.com/bumptech/glide)|
-
-
 
 #  _ScreenShots_  :camera:
 
