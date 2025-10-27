@@ -38,17 +38,3 @@ Sample MVVM e-commerce application for Android that uses Kotlin programming lang
 > ![img.png](img.png)
 
 
-
-##   _TO DO_ :heavy_check_mark:
-- [x] Discover 
-- [x] Favorites 
-- [x] Cart 
-- [x] Products by category
-- [ ] Payment screen with Stripe API
-- [ ] Sign in screen with Firebase
-- [ ] Profile screen
---------------------------------
-- [ ] Jetpack compose
-- [ ] Testing
-- [ ] dagger-hilt
-
